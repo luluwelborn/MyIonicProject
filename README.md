@@ -1,3 +1,12 @@
+## I started this app with the ionic template...
+
+So far I only have ionic app connected/ added.
+
+.......................................
+
+
+
+
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
